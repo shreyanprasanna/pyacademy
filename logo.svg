@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 72">
+  <defs>
+    <linearGradient id="paint0" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2aa78f"/>
+      <stop offset="100%" stop-color="#3a96b9"/>
+    </linearGradient>
+  </defs>
+  <rect width="280" height="72" rx="18" fill="none"/>
+  <path d="M22 22c0-9 8-16 17-16s17 7 17 16-8 16-17 16-17-7-17-16z" fill="url(#paint0)"/>
+  <path d="M36 28c0 2.5-2 4.5-4.5 4.5S27 30.5 27 28s2-4.5 4.5-4.5 4.5 2 4.5 4.5Z" fill="#fff"/>
+  <path d="M42.5 32c0 5-4 9-9 9s-9-4-9-9 4-9 9-9h5" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <text x="74" y="45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" fill="#1d232b">Py</text>
+  <text x="114" y="45" font-family="Inter, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" fill="#3a96b9">Academy</text>
+  <text x="74" y="58" font-family="Inter, Helvetica, Arial, sans-serif" font-size="12" fill="#5f6670">Python · AI · beginner-friendly</text>
+</svg>
